@@ -9,6 +9,9 @@
 *******************************************/
 
 
+body{
+	background:#efefef;
+}
 /*
 ==========================================
  CLASS
@@ -18,10 +21,15 @@
 	margin: 0 auto;
 	width: 992px;
 }
-
-.cotents{
+.head{
+	width: 100%;
+	height:12px;
+	background-color:#ffffff;
+}
+.contents{
 	width: 992px;
 	height : 600px;
+	background-color:#ffffff;
 }
 
 /*
