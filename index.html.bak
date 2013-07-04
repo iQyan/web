@@ -12,8 +12,8 @@
 	<body>
 		<div class="page">
 			<div class="wrapper">	
-				<header class="head">
-					<h1>PotentialTag</h1>
+				<header class="header">
+					<h1>Potential</h1>
 				</header>
 				<div class="contents">
 					<div class="photo-container">
