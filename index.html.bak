@@ -1,14 +1,29 @@
 <!DOCTYPE HTML>
 <html>
- <head>
-  <title> New Document </title>
-  <meta name="Generator" content="EditPlus">
-  <meta name="Author" content="">
-  <meta name="Keywords" content="">
-  <meta name="Description" content="">
- </head>
+	<head>
+	<title> New Document </title>
+	<meta name="Generator" content="EditPlus">
+	<meta name="Author" content="Hui Ung Park">
+	<meta name="Keywords" content="">
+	<meta name="Description" content="">
+	</head>
 
- <body>
-  
- </body>
+	<body>
+		<div class="wrapper">
+			<div class="head">
+				
+			</div>
+			<div class="contents">
+				<div class="photo-container">
+					<div class="photo-container-image">
+					</div>
+					<div class="photo-container-description">
+					</div>
+				</div>
+				<div clas="contral-container">
+					
+				</div>
+			</div>
+		</div>
+	</body>
 </html>
