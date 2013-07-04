@@ -10,10 +10,12 @@
 	</head>
 
 	<body>
-		<div class="wrapper">
-			<div class="head">
+		<div class="page">
+			<header class="head">
 				
-			</div>
+			</header>
+		<div class="wrapper">
+			
 			<div class="contents">
 				<div class="photo-container">
 					<div class="photo-container-image">
@@ -21,10 +23,11 @@
 					<div class="photo-container-description">
 					</div>
 				</div>
-				<div clas="control-container">
+				<div class="control-container">
 					
 				</div>
 			</div>
+		</div>
 		</div>
 	</body>
 </html>
