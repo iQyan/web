@@ -11,23 +11,22 @@
 
 	<body>
 		<div class="page">
-			<header class="head">
-				
-			</header>
-		<div class="wrapper">
-			
-			<div class="contents">
-				<div class="photo-container">
-					<div class="photo-container-image">
+			<div class="wrapper">	
+				<header class="head">
+					<h1>PotentialTag</h1>
+				</header>
+				<div class="contents">
+					<div class="photo-container">
+						<div class="photo-container-image">
+						</div>
+						<div class="photo-container-description">
+						</div>
 					</div>
-					<div class="photo-container-description">
-					</div>
-				</div>
-				<div class="control-container">
+					<div class="control-container">
 					
+					</div>
 				</div>
 			</div>
-		</div>
 		</div>
 	</body>
 </html>
