@@ -31,7 +31,32 @@ body{
 	height : 600px;
 	background-color:#ffffff;
 }
-
+.photo-container{
+	position:relative;
+	float:left;
+	width: 600px;
+	height: 600px;
+}
+.photo-container-image{
+	
+	margin:0 auto;
+	width:480px;
+	height:480px;
+	border:1px solid #eeeeee;
+}
+.photo-container-description{
+	margin: 0 auto;
+	width:480px;
+	height:100px;
+	border-bottom:1px solid #eeeeee;
+}
+.control-container{
+	position:relative;
+	float:left;
+	width:392px;
+	height:600px;
+	border-left:1px solid #eeeeee;
+}
 /*
 ==========================================
  ID
